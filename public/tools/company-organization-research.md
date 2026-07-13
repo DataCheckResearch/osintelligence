@@ -10,6 +10,12 @@
   - Tags: companies, database, corporate
   - Free: true
 
+- **Fylings** - https://www.fylings.com
+  - Description: Search and verify companies across 18+ official African national registries (CAC, BRELA, CBRD, RCCM), with the source and last-verified date on each record
+  - Category: company-research
+  - Tags: companies, africa, registries, due-diligence
+  - Free: true
+
 - **Crunchbase** - https://www.crunchbase.com
   - Description: Platform for finding business information
   - Category: company-research
