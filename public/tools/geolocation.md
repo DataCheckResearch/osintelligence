@@ -3,6 +3,12 @@
 </div>
 
 ## Geolocation
+- **Reverse Image Location (Geo Solver)** - https://reverseimagelocation.com/tools/reverse-image-search-location
+  - Description: AI-assisted image geolocation tool that analyzes visible scene clues and helps users verify location hypotheses with maps, satellite imagery, and reverse image search.
+  - Category: geolocation
+  - Tags: image-geolocation, reverse-image, osint, maps
+  - Free: true
+
 
 - **GeoSpy** - https://geospy.web.app
   - Description: AI-powered geolocation tool for images
