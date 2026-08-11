@@ -92,3 +92,9 @@
   - Category: metadata-analysis
   - Tags: metadata-analysis
   - Free: true
+
+- **Metadata Remover** - https://metadataremover.ai/metadata-viewer
+  - Description: Browser-local image metadata viewer and remover for supported EXIF, GPS, XMP, IPTC and some AI metadata
+  - Category: metadata
+  - Tags: exif, metadata, privacy, image
+  - Free: true
